@@ -23,5 +23,7 @@ sample
 20-06-2022--->it is friday
 16-06-2022--->it is thursday
 10-06-2022
-16-06-2022--> it is thursday
+16-06-2022--> it is thursdayfeature-45
+23-09-2022--> it is friday
 26-09-2022--> it is monday
+
